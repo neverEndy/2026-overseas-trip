@@ -36,9 +36,9 @@
 
 ## 目的地檔案（假期與票價預覽）
 
-- [福岡](fukuoka.md)
-- [濟州島](jeju.md)
-- [釜山](busan.md)
+- [福岡](./flights/fukuoka.md)
+- [濟州島](./flights/jeju.md)
+- [釜山](./flights/busan.md)
 
 ## 投票注釋事項
 
