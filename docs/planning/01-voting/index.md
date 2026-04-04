@@ -18,8 +18,7 @@
 	- **韓國釜山** — [假期與票價](./busan.md)
 	- **日本福岡** — [假期與票價](./fukuoka.md)
 	- **韓國濟州島** — [假期與票價](./jeju.md)
-- 人數大約 10 人
-- 天數大約 5 天
+- 天數抓 5 天
 - 班機原則直達不轉機
 - 時間安排在 7 月到 12 月，以下列出假期；**平均來回票價**為 [釜山](./busan.md)、[福岡](./fukuoka.md)、[濟州](./jeju.md) 同檔期「表列起價」之**算術平均**（四捨五入至整數、新台幣）。濟州自 **10/28** 起表內為**轉機**起價，與「直達」前提不同，仍一併納入平均僅供橫向對照。
 	- 07/01（三）- 07/05（日）一般週末 請假 3 天 — 平均來回票價 **$13,721**
@@ -57,10 +56,8 @@
 ## 來填表單
 > 提交之後要修改直接點選 `修改回覆內容`
 
-<iframe 
+<PopupForm 
   src="https://docs.google.com/forms/d/e/1FAIpQLSfgV9t6e2f77Y7k5TgYl1EigtSXZK1NupQkj0OuUXy7WNW0mg/viewform?embedded=true"
-  width="100%" 
-  height="1000" 
-  frameborder="0"
->
-</iframe>
+  buttonText="點我填寫表單"
+/>
+
