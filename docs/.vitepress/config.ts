@@ -3,6 +3,7 @@ import { name } from "../../package.json"
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
 	title: "2026 出國行",
+  description: "2026 出國行",
 	base: `/${name}/`,
   themeConfig: {
     sidebar: [
