@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 1,
+  "destination": {
+    "id": "busan",
+    "displayNameZh": "釜山",
+    "airportCode": "PUS"
+  },
+  "meta": {
+    "currency": "TWD",
+    "priceNoteZh": "Google Flights 已記錄之「最佳」來回起價（1 人、經濟艙、含稅），僅供趨勢參考。",
+    "source": "Google Flights",
+    "year": 2026
+  },
+  "periods": [
+    {
+      "id": "2026-07-01_2026-07-05",
+      "sortKey": "2026-07-01",
+      "labelZh": "07/01（三）- 07/05（日）一般週末 請假 3 天",
+      "labelChart": "07/01–07/05",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-01",
+      "returnDate": "2026-07-05",
+      "quote": {
+        "roundTripFromTwd": 10556,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "易斯達航空 凌晨2:40 - 清晨6:10 2h 30m TPE→PUS 直達 $10,556",
+      "sampleReturnSummary": "易斯達航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTAxagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDctMDVqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-08_2026-07-12",
+      "sortKey": "2026-07-08",
+      "labelZh": "07/08（三）- 07/12（日）一般週末 請假 3 天",
+      "labelChart": "07/08–07/12",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-08",
+      "returnDate": "2026-07-12",
+      "quote": {
+        "roundTripFromTwd": 10409,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $10,409",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTA4agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDctMTJqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-15_2026-07-19",
+      "sortKey": "2026-07-15",
+      "labelZh": "07/15（三）- 07/19（日）一般週末 請假 3 天",
+      "labelChart": "07/15–07/19",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-15",
+      "returnDate": "2026-07-19",
+      "quote": {
+        "roundTripFromTwd": 9199,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $9,199",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTE1agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDctMTlqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-22_2026-07-26",
+      "sortKey": "2026-07-22",
+      "labelZh": "07/22（三）- 07/26（日）一般週末 請假 3 天",
+      "labelChart": "07/22–07/26",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-22",
+      "returnDate": "2026-07-26",
+      "quote": {
+        "roundTripFromTwd": 9252,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "易斯達航空 凌晨2:40 - 清晨6:10 2h 30m TPE→PUS 直達 $9,252",
+      "sampleReturnSummary": "易斯達航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTIyagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDctMjZqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-29_2026-08-02",
+      "sortKey": "2026-07-29",
+      "labelZh": "07/29（三）- 08/02（日）一般週末 請假 3 天",
+      "labelChart": "07/29–08/02",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-29",
+      "returnDate": "2026-08-02",
+      "quote": {
+        "roundTripFromTwd": 9309,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $9,309",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTI5agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDgtMDJqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-05_2026-08-09",
+      "sortKey": "2026-08-05",
+      "labelZh": "08/05（三）- 08/09（日）一般週末 請假 3 天",
+      "labelChart": "08/05–08/09",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-05",
+      "returnDate": "2026-08-09",
+      "quote": {
+        "roundTripFromTwd": 8909,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $8,909",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTA1agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDgtMDlqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-12_2026-08-16",
+      "sortKey": "2026-08-12",
+      "labelZh": "08/12（三）- 08/16（日）一般週末 請假 3 天",
+      "labelChart": "08/12–08/16",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-12",
+      "returnDate": "2026-08-16",
+      "quote": {
+        "roundTripFromTwd": 9099,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $9,099",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTEyagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDgtMTZqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-19_2026-08-23",
+      "sortKey": "2026-08-19",
+      "labelZh": "08/19（三）- 08/23（日）一般週末 請假 3 天",
+      "labelChart": "08/19–08/23",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-19",
+      "returnDate": "2026-08-23",
+      "quote": {
+        "roundTripFromTwd": 8857,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "易斯達航空 凌晨2:40 - 清晨6:10 2h 30m TPE→PUS 直達 $8,857",
+      "sampleReturnSummary": "易斯達航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTE5agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDgtMjNqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-26_2026-08-30",
+      "sortKey": "2026-08-26",
+      "labelZh": "08/26（三）- 08/30（日）一般週末 請假 3 天",
+      "labelChart": "08/26–08/30",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-26",
+      "returnDate": "2026-08-30",
+      "quote": {
+        "roundTripFromTwd": 8509,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $8,509",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTI2agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDgtMzBqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-02_2026-09-06",
+      "sortKey": "2026-09-02",
+      "labelZh": "09/02（三）- 09/06（日）一般週末 請假 3 天",
+      "labelChart": "09/02–09/06",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-02",
+      "returnDate": "2026-09-06",
+      "quote": {
+        "roundTripFromTwd": 8109,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $8,109",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTAyagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDktMDZqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-09_2026-09-13",
+      "sortKey": "2026-09-09",
+      "labelZh": "09/09（三）- 09/13（日）一般週末 請假 3 天",
+      "labelChart": "09/09–09/13",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-09",
+      "returnDate": "2026-09-13",
+      "quote": {
+        "roundTripFromTwd": 7809,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $7,809",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTA5agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDktMTNqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-16_2026-09-20",
+      "sortKey": "2026-09-16",
+      "labelZh": "09/16（三）- 09/20（日）一般週末 請假 3 天",
+      "labelChart": "09/16–09/20",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-16",
+      "returnDate": "2026-09-20",
+      "quote": {
+        "roundTripFromTwd": 7452,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $7,452",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTE2agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDktMjBqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-24_2026-09-28",
+      "sortKey": "2026-09-24",
+      "labelZh": "09/24（四）- 09/28（一）中秋連假 請假 1 天",
+      "labelChart": "09/24–09/28",
+      "kind": "public_holiday",
+      "holidayTag": "mid_autumn",
+      "leaveDays": 1,
+      "outboundDate": "2026-09-24",
+      "returnDate": "2026-09-28",
+      "quote": {
+        "roundTripFromTwd": 15841,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $15,841",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTI0agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMDktMjhqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-30_2026-10-04",
+      "sortKey": "2026-09-30",
+      "labelZh": "09/30（三）- 10/04（日）一般週末 請假 3 天",
+      "labelChart": "09/30–10/04",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-30",
+      "returnDate": "2026-10-04",
+      "quote": {
+        "roundTripFromTwd": 7909,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $7,909",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTMwagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTAtMDRqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-07_2026-10-11",
+      "sortKey": "2026-10-07",
+      "labelZh": "10/07（三）- 10/11（日）雙十連假 請假 2 天",
+      "labelChart": "10/07–10/11",
+      "kind": "public_holiday",
+      "holidayTag": "double_ten",
+      "leaveDays": 2,
+      "outboundDate": "2026-10-07",
+      "returnDate": "2026-10-11",
+      "quote": {
+        "roundTripFromTwd": 11109,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $11,109",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTA3agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTAtMTFqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-14_2026-10-18",
+      "sortKey": "2026-10-14",
+      "labelZh": "10/14（三）- 10/18（日）一般週末 請假 3 天",
+      "labelChart": "10/14–10/18",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-10-14",
+      "returnDate": "2026-10-18",
+      "quote": {
+        "roundTripFromTwd": 8209,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $8,209",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTE0agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTAtMThqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-22_2026-10-26",
+      "sortKey": "2026-10-22",
+      "labelZh": "10/22（四）- 10/26（一）光復連假 請假 2 天",
+      "labelChart": "10/22–10/26",
+      "kind": "public_holiday",
+      "holidayTag": "retrocession",
+      "leaveDays": 2,
+      "outboundDate": "2026-10-22",
+      "returnDate": "2026-10-26",
+      "quote": {
+        "roundTripFromTwd": 12295,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 下午4:40 - 晚上7:55 2h 15m TPE→PUS 直達 $12,295",
+      "sampleReturnSummary": "台灣虎航 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTIyagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTAtMjZqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-28_2026-11-01",
+      "sortKey": "2026-10-28",
+      "labelZh": "10/28（三）- 11/01（日）一般週末 請假 3 天",
+      "labelChart": "10/28–11/01",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-10-28",
+      "returnDate": "2026-11-01",
+      "quote": {
+        "roundTripFromTwd": 10307,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $10,307",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTI4agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTEtMDFqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-04_2026-11-08",
+      "sortKey": "2026-11-04",
+      "labelZh": "11/04（三）- 11/08（日）一般週末 請假 3 天",
+      "labelChart": "11/04–11/08",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-04",
+      "returnDate": "2026-11-08",
+      "quote": {
+        "roundTripFromTwd": 9720,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $9,720",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTA0agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTEtMDhqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-11_2026-11-15",
+      "sortKey": "2026-11-11",
+      "labelZh": "11/11（三）- 11/15（日）一般週末 請假 3 天",
+      "labelChart": "11/11–11/15",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-11",
+      "returnDate": "2026-11-15",
+      "quote": {
+        "roundTripFromTwd": 9041,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $9,041",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTExagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTEtMTVqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-18_2026-11-22",
+      "sortKey": "2026-11-18",
+      "labelZh": "11/18（三）- 11/22（日）一般週末 請假 3 天",
+      "labelChart": "11/18–11/22",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-18",
+      "returnDate": "2026-11-22",
+      "quote": {
+        "roundTripFromTwd": 9041,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $9,041",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTE4agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTEtMjJqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-25_2026-11-29",
+      "sortKey": "2026-11-25",
+      "labelZh": "11/25（三）- 11/29（日）一般週末 請假 3 天",
+      "labelChart": "11/25–11/29",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-25",
+      "returnDate": "2026-11-29",
+      "quote": {
+        "roundTripFromTwd": 9628,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $9,628",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTI1agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTEtMjlqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-02_2026-12-06",
+      "sortKey": "2026-12-02",
+      "labelZh": "12/02（三）- 12/06（日）一般週末 請假 3 天",
+      "labelChart": "12/02–12/06",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-12-02",
+      "returnDate": "2026-12-06",
+      "quote": {
+        "roundTripFromTwd": 9628,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $9,628",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTAyagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTItMDZqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-09_2026-12-13",
+      "sortKey": "2026-12-09",
+      "labelZh": "12/09（三）- 12/13（日）一般週末 請假 3 天",
+      "labelChart": "12/09–12/13",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-12-09",
+      "returnDate": "2026-12-13",
+      "quote": {
+        "roundTripFromTwd": 9355,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $9,355",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTItMTNqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-16_2026-12-20",
+      "sortKey": "2026-12-16",
+      "labelZh": "12/16（三）- 12/20（日）一般週末 請假 3 天",
+      "labelChart": "12/16–12/20",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-12-16",
+      "returnDate": "2026-12-20",
+      "quote": {
+        "roundTripFromTwd": 9355,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 晚上8:45 2h 15m TPE→PUS 直達 $9,355",
+      "sampleReturnSummary": "大韓航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTE2agcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTItMjBqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-23_2026-12-27",
+      "sortKey": "2026-12-23",
+      "labelZh": "12/23（三）- 12/27（日）聖誕連假 請假 2 天",
+      "labelChart": "12/23–12/27",
+      "kind": "public_holiday",
+      "holidayTag": "christmas",
+      "leaveDays": 2,
+      "outboundDate": "2026-12-23",
+      "returnDate": "2026-12-27",
+      "quote": {
+        "roundTripFromTwd": 13637,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "長榮航空 下午2:25 - 下午5:40 2h 15m TPE→PUS 直達 $13,637",
+      "sampleReturnSummary": "長榮航空 PUS→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTIzagcIARIDVFBFcgcIARIDUFVTGh4SCjIwMjYtMTItMjdqBwgBEgNQVVNyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    }
+  ]
+}

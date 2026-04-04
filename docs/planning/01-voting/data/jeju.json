@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 1,
+  "destination": {
+    "id": "jeju",
+    "displayNameZh": "濟州島",
+    "airportCode": "CJU"
+  },
+  "meta": {
+    "currency": "TWD",
+    "priceNoteZh": "Google Flights 已記錄之「最佳」來回起價（1 人、經濟艙、含稅），僅供趨勢參考。",
+    "source": "Google Flights",
+    "year": 2026
+  },
+  "periods": [
+    {
+      "id": "2026-07-01_2026-07-05",
+      "sortKey": "2026-07-01",
+      "labelZh": "07/01（三）- 07/05（日）一般週末 請假 3 天",
+      "labelChart": "07/01–07/05",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-01",
+      "returnDate": "2026-07-05",
+      "quote": {
+        "roundTripFromTwd": 14806,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "真航空 凌晨3:00 - 清晨6:10 2h 10m TPE→CJU 直達 $14,806",
+      "sampleReturnSummary": "真航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTAxagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDctMDVqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-08_2026-07-12",
+      "sortKey": "2026-07-08",
+      "labelZh": "07/08（三）- 07/12（日）一般週末 請假 3 天",
+      "labelChart": "07/08–07/12",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-08",
+      "returnDate": "2026-07-12",
+      "quote": {
+        "roundTripFromTwd": 12231,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "真航空 凌晨3:00 - 清晨6:10 2h 10m TPE→CJU 直達 $12,231",
+      "sampleReturnSummary": "真航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTA4agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDctMTJqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-15_2026-07-19",
+      "sortKey": "2026-07-15",
+      "labelZh": "07/15（三）- 07/19（日）一般週末 請假 3 天",
+      "labelChart": "07/15–07/19",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-15",
+      "returnDate": "2026-07-19",
+      "quote": {
+        "roundTripFromTwd": 12631,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "真航空 凌晨3:00 - 清晨6:10 2h 10m TPE→CJU 直達 $12,631",
+      "sampleReturnSummary": "真航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTE1agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDctMTlqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-22_2026-07-26",
+      "sortKey": "2026-07-22",
+      "labelZh": "07/22（三）- 07/26（日）一般週末 請假 3 天",
+      "labelChart": "07/22–07/26",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-22",
+      "returnDate": "2026-07-26",
+      "quote": {
+        "roundTripFromTwd": 12125,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "真航空 凌晨3:00 - 清晨6:10 2h 10m TPE→CJU 直達 $12,125",
+      "sampleReturnSummary": "真航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTIyagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDctMjZqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-07-29_2026-08-02",
+      "sortKey": "2026-07-29",
+      "labelZh": "07/29（三）- 08/02（日）一般週末 請假 3 天",
+      "labelChart": "07/29–08/02",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-07-29",
+      "returnDate": "2026-08-02",
+      "quote": {
+        "roundTripFromTwd": 11579,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "易斯達航空 凌晨2:50 - 清晨6:05 2h 15m TPE→CJU 直達 $11,579",
+      "sampleReturnSummary": "易斯達航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA3LTI5agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDgtMDJqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-05_2026-08-09",
+      "sortKey": "2026-08-05",
+      "labelZh": "08/05（三）- 08/09（日）一般週末 請假 3 天",
+      "labelChart": "08/05–08/09",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-05",
+      "returnDate": "2026-08-09",
+      "quote": {
+        "roundTripFromTwd": 10742,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "易斯達航空 凌晨2:50 - 清晨6:05 2h 15m TPE→CJU 直達 $10,742",
+      "sampleReturnSummary": "易斯達航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTA1agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDgtMDlqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-12_2026-08-16",
+      "sortKey": "2026-08-12",
+      "labelZh": "08/12（三）- 08/16（日）一般週末 請假 3 天",
+      "labelChart": "08/12–08/16",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-12",
+      "returnDate": "2026-08-16",
+      "quote": {
+        "roundTripFromTwd": 11109,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 清晨6:40 - 上午9:35 1h 55m TPE→CJU 直達 $11,109",
+      "sampleReturnSummary": "台灣虎航 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTEyagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDgtMTZqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-19_2026-08-23",
+      "sortKey": "2026-08-19",
+      "labelZh": "08/19（三）- 08/23（日）一般週末 請假 3 天",
+      "labelChart": "08/19–08/23",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-19",
+      "returnDate": "2026-08-23",
+      "quote": {
+        "roundTripFromTwd": 10742,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "易斯達航空 凌晨2:50 - 清晨6:05 2h 15m TPE→CJU 直達 $10,742",
+      "sampleReturnSummary": "易斯達航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTE5agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDgtMjNqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-08-26_2026-08-30",
+      "sortKey": "2026-08-26",
+      "labelZh": "08/26（三）- 08/30（日）一般週末 請假 3 天",
+      "labelChart": "08/26–08/30",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-08-26",
+      "returnDate": "2026-08-30",
+      "quote": {
+        "roundTripFromTwd": 10318,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "易斯達航空 凌晨2:50 - 清晨6:05 2h 15m TPE→CJU 直達 $10,318",
+      "sampleReturnSummary": "易斯達航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA4LTI2agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDgtMzBqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-02_2026-09-06",
+      "sortKey": "2026-09-02",
+      "labelZh": "09/02（三）- 09/06（日）一般週末 請假 3 天",
+      "labelChart": "09/02–09/06",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-02",
+      "returnDate": "2026-09-06",
+      "quote": {
+        "roundTripFromTwd": 9811,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "真航空 凌晨3:00 - 清晨6:10 2h 10m TPE→CJU 直達 $9,811",
+      "sampleReturnSummary": "真航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTAyagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDktMDZqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-09_2026-09-13",
+      "sortKey": "2026-09-09",
+      "labelZh": "09/09（三）- 09/13（日）一般週末 請假 3 天",
+      "labelChart": "09/09–09/13",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-09",
+      "returnDate": "2026-09-13",
+      "quote": {
+        "roundTripFromTwd": 9509,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 清晨6:40 - 上午9:35 1h 55m TPE→CJU 直達 $9,509",
+      "sampleReturnSummary": "台灣虎航 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTA5agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDktMTNqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-16_2026-09-20",
+      "sortKey": "2026-09-16",
+      "labelZh": "09/16（三）- 09/20（日）一般週末 請假 3 天",
+      "labelChart": "09/16–09/20",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-16",
+      "returnDate": "2026-09-20",
+      "quote": {
+        "roundTripFromTwd": 9509,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 清晨6:40 - 上午9:35 1h 55m TPE→CJU 直達 $9,509",
+      "sampleReturnSummary": "台灣虎航 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTE2agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDktMjBqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-24_2026-09-28",
+      "sortKey": "2026-09-24",
+      "labelZh": "09/24（四）- 09/28（一）中秋連假 請假 1 天",
+      "labelChart": "09/24–09/28",
+      "kind": "public_holiday",
+      "holidayTag": "mid_autumn",
+      "leaveDays": 1,
+      "outboundDate": "2026-09-24",
+      "returnDate": "2026-09-28",
+      "quote": {
+        "roundTripFromTwd": 17929,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 清晨6:40 - 上午9:45 2h 05m TPE→CJU 直達 $17,929",
+      "sampleReturnSummary": "台灣虎航 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTI0agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMDktMjhqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-09-30_2026-10-04",
+      "sortKey": "2026-09-30",
+      "labelZh": "09/30（三）- 10/04（日）一般週末 請假 3 天",
+      "labelChart": "09/30–10/04",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-09-30",
+      "returnDate": "2026-10-04",
+      "quote": {
+        "roundTripFromTwd": 10609,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 清晨6:40 - 上午9:35 1h 55m TPE→CJU 直達 $10,609",
+      "sampleReturnSummary": "台灣虎航 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTA5LTMwagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTAtMDRqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-07_2026-10-11",
+      "sortKey": "2026-10-07",
+      "labelZh": "10/07（三）- 10/11（日）雙十連假 請假 2 天",
+      "labelChart": "10/07–10/11",
+      "kind": "public_holiday",
+      "holidayTag": "double_ten",
+      "leaveDays": 2,
+      "outboundDate": "2026-10-07",
+      "returnDate": "2026-10-11",
+      "quote": {
+        "roundTripFromTwd": 13112,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "真航空 凌晨3:00 - 清晨6:10 2h 10m TPE→CJU 直達 $13,112",
+      "sampleReturnSummary": "真航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTA3agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTAtMTFqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-14_2026-10-18",
+      "sortKey": "2026-10-14",
+      "labelZh": "10/14（三）- 10/18（日）一般週末 請假 3 天",
+      "labelChart": "10/14–10/18",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-10-14",
+      "returnDate": "2026-10-18",
+      "quote": {
+        "roundTripFromTwd": 11209,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "台灣虎航 清晨6:40 - 上午9:35 1h 55m TPE→CJU 直達 $11,209",
+      "sampleReturnSummary": "台灣虎航 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTE0agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTAtMThqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-22_2026-10-26",
+      "sortKey": "2026-10-22",
+      "labelZh": "10/22（四）- 10/26（一）光復連假 請假 2 天",
+      "labelChart": "10/22–10/26",
+      "kind": "public_holiday",
+      "holidayTag": "retrocession",
+      "leaveDays": 2,
+      "outboundDate": "2026-10-22",
+      "returnDate": "2026-10-26",
+      "quote": {
+        "roundTripFromTwd": 11169,
+        "direct": true,
+        "routingNote": null
+      },
+      "sampleOutboundSummary": "德威航空 下午2:25 - 下午5:30 2h 05m TPE→CJU 直達 $11,169",
+      "sampleReturnSummary": "德威航空 CJU→TPE 直達 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTIyagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTAtMjZqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-10-28_2026-11-01",
+      "sortKey": "2026-10-28",
+      "labelZh": "10/28（三）- 11/01（日）一般週末 請假 3 天",
+      "labelChart": "10/28–11/01",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-10-28",
+      "returnDate": "2026-11-01",
+      "quote": {
+        "roundTripFromTwd": 13118,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "韓亞航空 中午12:55 - 晚上10:15 8h 20m TPE→CJU 經首爾轉機 $13,118",
+      "sampleReturnSummary": "韓亞航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEwLTI4agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTEtMDFqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-04_2026-11-08",
+      "sortKey": "2026-11-04",
+      "labelZh": "11/04（三）- 11/08（日）一般週末 請假 3 天",
+      "labelChart": "11/04–11/08",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-04",
+      "returnDate": "2026-11-08",
+      "quote": {
+        "roundTripFromTwd": 12795,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "韓亞航空 中午12:55 - 晚上10:15 8h 20m TPE→CJU 經首爾轉機 $12,795",
+      "sampleReturnSummary": "韓亞航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTA0agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTEtMDhqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-11_2026-11-15",
+      "sortKey": "2026-11-11",
+      "labelZh": "11/11（三）- 11/15（日）一般週末 請假 3 天",
+      "labelChart": "11/11–11/15",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-11",
+      "returnDate": "2026-11-15",
+      "quote": {
+        "roundTripFromTwd": 13213,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 翌日上午8:25 13h 55m TPE→CJU 經釜山轉機 $13,213",
+      "sampleReturnSummary": "大韓航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTExagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTEtMTVqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-18_2026-11-22",
+      "sortKey": "2026-11-18",
+      "labelZh": "11/18（三）- 11/22（日）一般週末 請假 3 天",
+      "labelChart": "11/18–11/22",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-18",
+      "returnDate": "2026-11-22",
+      "quote": {
+        "roundTripFromTwd": 13213,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 翌日上午8:25 13h 55m TPE→CJU 經釜山轉機 $13,213",
+      "sampleReturnSummary": "大韓航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTE4agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTEtMjJqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-11-25_2026-11-29",
+      "sortKey": "2026-11-25",
+      "labelZh": "11/25（三）- 11/29（日）一般週末 請假 3 天",
+      "labelChart": "11/25–11/29",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-11-25",
+      "returnDate": "2026-11-29",
+      "quote": {
+        "roundTripFromTwd": 12663,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 翌日上午8:25 13h 55m TPE→CJU 經釜山轉機 $12,663",
+      "sampleReturnSummary": "大韓航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTExLTI1agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTEtMjlqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-02_2026-12-06",
+      "sortKey": "2026-12-02",
+      "labelZh": "12/02（三）- 12/06（日）一般週末 請假 3 天",
+      "labelChart": "12/02–12/06",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-12-02",
+      "returnDate": "2026-12-06",
+      "quote": {
+        "roundTripFromTwd": 12663,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 翌日上午8:25 13h 55m TPE→CJU 經釜山轉機 $12,663",
+      "sampleReturnSummary": "大韓航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTAyagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTItMDZqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-09_2026-12-13",
+      "sortKey": "2026-12-09",
+      "labelZh": "12/09（三）- 12/13（日）一般週末 請假 3 天",
+      "labelChart": "12/09–12/13",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-12-09",
+      "returnDate": "2026-12-13",
+      "quote": {
+        "roundTripFromTwd": 12663,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 翌日上午8:25 13h 55m TPE→CJU 經釜山轉機 $12,663",
+      "sampleReturnSummary": "大韓航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTA5agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTItMTNqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-16_2026-12-20",
+      "sortKey": "2026-12-16",
+      "labelZh": "12/16（三）- 12/20（日）一般週末 請假 3 天",
+      "labelChart": "12/16–12/20",
+      "kind": "weekend",
+      "holidayTag": null,
+      "leaveDays": 3,
+      "outboundDate": "2026-12-16",
+      "returnDate": "2026-12-20",
+      "quote": {
+        "roundTripFromTwd": 12663,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "大韓航空 下午5:30 - 翌日上午8:25 13h 55m TPE→CJU 經釜山轉機 $12,663",
+      "sampleReturnSummary": "大韓航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTE2agcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTItMjBqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    },
+    {
+      "id": "2026-12-23_2026-12-27",
+      "sortKey": "2026-12-23",
+      "labelZh": "12/23（三）- 12/27（日）聖誕連假 請假 2 天",
+      "labelChart": "12/23–12/27",
+      "kind": "public_holiday",
+      "holidayTag": "christmas",
+      "leaveDays": 2,
+      "outboundDate": "2026-12-23",
+      "returnDate": "2026-12-27",
+      "quote": {
+        "roundTripFromTwd": 16106,
+        "direct": false,
+        "routingNote": "轉機"
+      },
+      "sampleOutboundSummary": "韓亞航空 中午12:55 - 翌日清晨7:30 17h 35m TPE→CJU 經首爾轉機 $16,106",
+      "sampleReturnSummary": "韓亞航空 CJU→TPE 轉機 (含於來回票價)",
+      "googleFlightsSearchUrl": "https://www.google.com/travel/flights/search?tfs=CBwQAhoeEgoyMDI2LTEyLTIzagcIARIDVFBFcgcIARIDQ0pVGh4SCjIwMjYtMTItMjdqBwgBEgNDSlVyBwgBEgNUUEU=&hl=zh-TW&curr=TWD"
+    }
+  ]
+}

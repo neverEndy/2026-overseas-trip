@@ -5,11 +5,6 @@ export default defineConfig({
 	title: "2026 出國行",
 	base: `/${name}/`,
   themeConfig: {
-    nav: [
-      { text: "首頁", link: "/" },
-      { text: "階段一 · 投票", link: "/planning/01-voting/" },
-      { text: "航班票價", link: "/planning/01-voting/fukuoka" },
-    ],
     sidebar: [
       {
         text: "總覽",
@@ -18,7 +13,7 @@ export default defineConfig({
       {
         text: "階段一：地點與假期",
         items: [
-          { text: "投票與志願序", link: "/planning/01-voting/" },
+          { text: "地點與假期投票", link: "/planning/01-voting/" },
           { text: "福岡 · 航班與票價", link: "/planning/01-voting/fukuoka" },
           { text: "濟州島 · 航班與票價", link: "/planning/01-voting/jeju" },
           { text: "釜山 · 航班與票價", link: "/planning/01-voting/busan" },
