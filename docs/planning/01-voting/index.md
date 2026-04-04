@@ -4,6 +4,7 @@
 
 - 請大家 [**填寫表單**](https://docs.google.com/forms/d/e/1FAIpQLSfgV9t6e2f77Y7k5TgYl1EigtSXZK1NupQkj0OuUXy7WNW0mg/viewform?usp=header) 選出偏好的**地點**與**假期**。
 - 主辦會依結果排**志願序**：若第一名因訂不到票等**不可抗力**無法成行，可依序改採其他組合。
+- 統計到 04/12 中午 12:00
 ### 投票注釋事項
 > - 假期時間與票價**僅供參考**。
 > - 實際出發／回程日期可能視情況**往前或往後移動約一兩天**。
