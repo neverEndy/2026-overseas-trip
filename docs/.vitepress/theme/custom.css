@@ -1,0 +1,149 @@
+/**
+ * 首頁 layout: home 時，VPHome 內的 <Content /> 沒有 .vp-doc，
+ * 表格／標題等會缺少文件樣式。以下對「Content > markdown 根節點」套用與 vp-doc 一致的規則。
+ */
+.VPHome > div[style*='relative'] {
+  box-sizing: border-box;
+  max-width: 1152px;
+  margin: 0 auto;
+  padding: 0 24px 48px;
+}
+
+@media (min-width: 768px) {
+  .VPHome > div[style*='relative'] {
+    padding: 0 32px 64px;
+  }
+}
+
+.VPHome > div[style*='relative'] > div h1,
+.VPHome > div[style*='relative'] > div h2,
+.VPHome > div[style*='relative'] > div h3,
+.VPHome > div[style*='relative'] > div h4,
+.VPHome > div[style*='relative'] > div h5,
+.VPHome > div[style*='relative'] > div h6 {
+  position: relative;
+  font-weight: 600;
+  outline: none;
+}
+
+.VPHome > div[style*='relative'] > div h1 {
+  letter-spacing: -0.02em;
+  line-height: 40px;
+  font-size: 28px;
+}
+
+.VPHome > div[style*='relative'] > div h2 {
+  margin: 48px 0 16px;
+  border-top: 1px solid var(--vp-c-divider-light);
+  padding-top: 24px;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-size: 24px;
+}
+
+.VPHome > div[style*='relative'] > div h3 {
+  margin: 32px 0 0;
+  letter-spacing: -0.01em;
+  line-height: 28px;
+  font-size: 20px;
+}
+
+.VPHome > div[style*='relative'] > div .header-anchor {
+  float: left;
+  margin-left: -0.87em;
+  padding-right: 0.23em;
+  font-weight: 500;
+  opacity: 0;
+  transition: color 0.25s, opacity 0.25s;
+}
+
+.VPHome > div[style*='relative'] > div h1:hover .header-anchor,
+.VPHome > div[style*='relative'] > div h1 .header-anchor:focus,
+.VPHome > div[style*='relative'] > div h2:hover .header-anchor,
+.VPHome > div[style*='relative'] > div h2 .header-anchor:focus,
+.VPHome > div[style*='relative'] > div h3:hover .header-anchor,
+.VPHome > div[style*='relative'] > div h3 .header-anchor:focus {
+  opacity: 1;
+}
+
+@media (min-width: 768px) {
+  .VPHome > div[style*='relative'] > div h1 {
+    font-size: 32px;
+  }
+}
+
+.VPHome > div[style*='relative'] > div p,
+.VPHome > div[style*='relative'] > div summary {
+  margin: 16px 0;
+  line-height: 28px;
+}
+
+.VPHome > div[style*='relative'] > div a {
+  font-weight: 500;
+  color: var(--vp-c-brand);
+  text-decoration-style: dotted;
+  transition: color 0.25s;
+}
+
+.VPHome > div[style*='relative'] > div a:hover {
+  color: var(--vp-c-brand-dark);
+}
+
+.VPHome > div[style*='relative'] > div strong {
+  font-weight: 600;
+}
+
+.VPHome > div[style*='relative'] > div ul,
+.VPHome > div[style*='relative'] > div ol {
+  padding-left: 1.25rem;
+  margin: 16px 0;
+}
+
+.VPHome > div[style*='relative'] > div ul {
+  list-style: disc;
+}
+
+.VPHome > div[style*='relative'] > div ol {
+  list-style: decimal;
+}
+
+.VPHome > div[style*='relative'] > div li + li {
+  margin-top: 8px;
+}
+
+.VPHome > div[style*='relative'] > div li > ol,
+.VPHome > div[style*='relative'] > div li > ul {
+  margin: 8px 0 0;
+}
+
+.VPHome > div[style*='relative'] > div table {
+  display: block;
+  border-collapse: collapse;
+  margin: 20px 0;
+  overflow-x: auto;
+}
+
+.VPHome > div[style*='relative'] > div tr {
+  border-top: 1px solid var(--vp-c-divider);
+  transition: background-color 0.5s;
+}
+
+.VPHome > div[style*='relative'] > div tr:nth-child(2n) {
+  background-color: var(--vp-c-bg-soft);
+}
+
+.VPHome > div[style*='relative'] > div th,
+.VPHome > div[style*='relative'] > div td {
+  border: 1px solid var(--vp-c-divider);
+  padding: 12px 16px;
+}
+
+.VPHome > div[style*='relative'] > div th {
+  font-size: 16px;
+  font-weight: 600;
+  background-color: var(--vp-c-white-soft);
+}
+
+.dark .VPHome > div[style*='relative'] > div th {
+  background-color: var(--vp-c-black);
+}
