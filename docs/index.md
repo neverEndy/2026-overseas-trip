@@ -10,7 +10,7 @@ features:
   - title: 階段一 · 地點與假期
     link: /planning/01-voting/
     icon: ✅
-    details: 填寫表單投票選出目的地與假期；主辦排志願序，因訂票等不可抗力可改採後備組合。細節見側欄「階段一」。
+    details: 填寫表單投票（已結束）選出目的地與假期；主辦排志願序，因訂票等不可抗力可改採後備組合。細節見側欄「階段一」。
   - title: 階段二 · 訂票與接送
     link: /planning/02-booking-and-transfers/
     icon: ⚠️

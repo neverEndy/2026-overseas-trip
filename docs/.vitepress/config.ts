@@ -14,10 +14,16 @@ export default defineConfig({
       {
         text: "階段一：地點與假期",
         items: [
-          { text: "地點與假期投票", link: "/planning/01-voting/" },
-          { text: "福岡 · 航班與票價", link: "/planning/01-voting/fukuoka" },
-          { text: "濟州島 · 航班與票價", link: "/planning/01-voting/jeju" },
-          { text: "釜山 · 航班與票價", link: "/planning/01-voting/busan" },
+          { text: "地點與假期投票（已結束）", link: "/planning/01-voting/" },
+          { text: "投票結果", link: "/planning/01-voting/result" },
+          {
+            text: "航班與票價參考",
+            items: [
+              { text: "福岡 · 航班與票價", link: "/planning/01-voting/fukuoka" },
+              { text: "濟州島 · 航班與票價", link: "/planning/01-voting/jeju" },
+              { text: "釜山 · 航班與票價", link: "/planning/01-voting/busan" },
+            ]
+          },
         ],
       },
       {
