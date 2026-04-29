@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 import { name } from "../../package.json"
 // https://vitepress.vuejs.org/config/app-configs
 export default defineConfig({
-	title: "2026 出國行",
-  description: "2026 出國行",
+	title: "2026 釜山行",
+  description: "2026 釜山行",
 	base: `/${name}/`,
   themeConfig: {
     sidebar: [
@@ -27,7 +27,7 @@ export default defineConfig({
         ],
       },
       {
-        text: "階段二：訂票與接送",
+        text: "階段二：機加酒與接送",
         items: [
           { text: "成員資料與接送聯絡", link: "/planning/02-booking-and-transfers/" },
           // 之後可新增：機位訂位總表、接送車聯絡方式、費用分攤 等
