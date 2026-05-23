@@ -30,6 +30,7 @@ export default defineConfig({
         text: "階段二：機加酒與接送",
         items: [
           { text: "成員資料與接送聯絡", link: "/planning/02-booking-and-transfers/" },
+          { text: "住宿景點餐廳許願池", link: "/planning/02-booking-and-transfers/wish-list" },
           // 之後可新增：機位訂位總表、接送車聯絡方式、費用分攤 等
         ],
       },

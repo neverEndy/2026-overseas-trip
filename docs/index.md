@@ -13,10 +13,10 @@ features:
     details: 填寫表單投票（已結束）選出目的地與假期；主辦排志願序，因訂票等不可抗力可改採後備組合。細節見側欄「階段一」。
   - title: 階段二 · 機加酒與接送
     link: /planning/02-booking-and-transfers/
-    icon: ⚠️
-    details: 選定後訂機票、接送／計程車，並蒐集成員護照與接送聯絡等資料。內容待規劃。
+    icon: ⏳
+    details: ✅ 訂機票並蒐集成員護照; ⏳接送／計程車，與接送聯絡等資料。
   - title: 階段三 · 行程規劃
     link: /planning/03-itinerary/
-    icon: ⚠️
+    icon: ⏳
     details: 排定每日景點與動線。內容待規劃。
 ---
