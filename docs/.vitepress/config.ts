@@ -29,7 +29,7 @@ export default defineConfig({
       {
         text: "階段二：機加酒與接送",
         items: [
-          { text: "成員資料與接送聯絡", link: "/planning/02-booking-and-transfers/" },
+          { text: "航班&飯店", link: "/planning/02-booking-and-transfers/" },
           { text: "住宿景點餐廳許願池", link: "/planning/02-booking-and-transfers/wish-list" },
           // 之後可新增：機位訂位總表、接送車聯絡方式、費用分攤 等
         ],
@@ -38,7 +38,11 @@ export default defineConfig({
         text: "階段三：行程規劃",
         items: [
           { text: "每日行程總覽", link: "/planning/03-itinerary/" },
-          // 之後可新增：Day 1、Day 2 … 或依城市／主題拆頁
+          { text: "Day 1・抵達・西面＆南浦", link: "/planning/03-itinerary/day1" },
+          { text: "Day 2・甘川文化村・松島", link: "/planning/03-itinerary/day2" },
+          { text: "Day 3・海雲台一日遊", link: "/planning/03-itinerary/day3" },
+          { text: "Day 4・機張一日遊", link: "/planning/03-itinerary/day4" },
+          { text: "Day 5・南浦採買・賦歸", link: "/planning/03-itinerary/day5" },
         ],
       },
     ],

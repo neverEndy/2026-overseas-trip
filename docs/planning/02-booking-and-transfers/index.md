@@ -35,6 +35,12 @@
 
 ## 飯店
 
-> **狀態：尚未開始**
+> **狀態：已選定**
+
+- **飯店名稱：** 阿爾班酒店（Arban Hotel）
+- **入住日期：** 2026/09/02（三）
+- **退房日期：** 2026/09/06（日）
+- 都是雙人 or 雙床房
+- **連結：** [Trip.com](https://hk.trip.com/hotels/w/detail/?cityid=253&hotelid=4396607&checkin=2026-09-02&checkout=2026-09-06&curr=TWD&locale=zh-HK&fromShare=TripPcDetail)
 
 
