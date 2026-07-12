@@ -46,6 +46,7 @@
 |------|----------|--------|------------|
 | e-Arrival Card 線上申報 | Day1 入境 | 韓國官方 e-Arrival Card 網站 | **出發前 3 天內**（每個人都要填） |
 | K-ETA／Q-CODE 規定再確認 | Day1 入境 | K-ETA 官網／長榮航空公告 | 出發前 1-2 週 |
+| 天空膠囊列車（尾浦→青沙浦）訂位 | Day3 上午 | 官網／KKday／Klook；需訂 16 人份、每艙 2-4 人 | **2026/08/04（二）韓國時間 07:00／台灣時間 06:00** 準時搶票（開賣時才會放出含 09/04 這週的名額） |
 | Skyline Luge Busan 門票 | Day4 上午 | [官網](https://busan.skylineluge.kr/en/pricing-packages/)／Klook／KKday | 出發前先買好，週六現場排隊會很久 |
 | 樂天世界冒險樂園 釜山 門票 | Day4 中午-下午 | [官網](https://adventurebusan.lotteworld.com/price/price)／Klook／KKday／Trazy | 同上，出發前先買 |
 | Visit Busan Pass（試算後建議 BIG5） | Day2 松島纜車、Day4 Luge＋樂天世界 | 官方 App／[visitbusanpass.com](https://www.visitbusanpass.com/visitBusanPass/use) | **出發前 1 個月**：先確認分區與方案沒變再買，可以直接取代上面兩個門票 |
