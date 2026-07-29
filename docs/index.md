@@ -1,17 +1,17 @@
 # Table of contents
 
 * [index](index.md)
-* planning
-  * [01-voting](planning/01-voting/index.md)
+* [planning](planning/03-itinerary/index.md)
+  * [階段一：地點與假期（投票-已結束）](planning/01-voting/index.md)
     * [釜山-假期與票價預覽](planning/01-voting/busan.md)
     * [福岡-假期與票價預覽](planning/01-voting/fukuoka.md)
     * [階段一：地點與假期（投票-已結束）](planning/01-voting/index.md)
     * [濟州島-假期與票價預覽](planning/01-voting/jeju.md)
     * [投票結果](planning/01-voting/result.md)
-  * [02-booking-and-transfers](planning/02-booking-and-transfers/index.md)
+  * [階段二：機加酒與接送](planning/02-booking-and-transfers/index.md)
     * [階段二：機加酒與接送](planning/02-booking-and-transfers/index.md)
     * [住宿景點餐廳許願池](planning/02-booking-and-transfers/wish-list.md)
-  * [03-itinerary](planning/03-itinerary/index.md)
+  * [階段三：行程規劃](planning/03-itinerary/index.md)
     * [Day 1｜09/02（三）：抵達釜山・西面＆南浦初體驗](planning/03-itinerary/day1.md)
     * [Day 2｜09/03（四）：甘川文化村・松島纜車・南浦夜市](planning/03-itinerary/day2.md)
     * [Day 3｜09/04（五）：海雲台・青沙浦・廣安里](planning/03-itinerary/day3.md)
