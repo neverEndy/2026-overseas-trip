@@ -1,7 +1,7 @@
 # Table of contents
 
 * [index](index.md)
-* [planning](planning/index.md)
+* planning
   * [01-voting](planning/01-voting/index.md)
     * [釜山-假期與票價預覽](planning/01-voting/busan.md)
     * [福岡-假期與票價預覽](planning/01-voting/fukuoka.md)
