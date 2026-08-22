@@ -147,3 +147,19 @@
 .dark .VPHome > div[style*='relative'] > div th {
   background-color: var(--vp-c-black);
 }
+
+/**
+ * 手機版表格瘦身：縮小內距與字體、允許長字串換行，
+ * 讓表格盡量不用橫向捲動就能顯示完整內容。
+ */
+@media (max-width: 640px) {
+  .vp-doc table {
+    font-size: 13px;
+  }
+
+  .vp-doc th,
+  .vp-doc td {
+    padding: 6px 8px;
+    word-break: break-word;
+  }
+}
